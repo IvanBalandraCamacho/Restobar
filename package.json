@@ -1,0 +1,9 @@
+{
+  "name": "hotelflow-demo",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión Hotelera - Demo Completo",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build needed - static site'"
+  }
+}
